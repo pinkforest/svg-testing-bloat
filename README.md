@@ -1,0 +1,2 @@
+# Collection of SVG bloats
+
