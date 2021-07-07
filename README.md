@@ -30,6 +30,10 @@
 
 ![foo](suckit-120cols-20rows.svg)
 
+## Suckit 120 cols, 40 rows - Adjusted Content & Timings
+
+![foo](suckit-adjusted-120cols-40rows.svg)
+
 ## Suckit 150 cols, 20 rows - Adjusted Timings
 
 - Render: 216KB
